@@ -1,0 +1,19 @@
+.background {
+    background-color: rgb(228, 5, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.background.three {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(95, 255, 47);
+    font-size: 24px;
+    font-weight: bold;
+}
